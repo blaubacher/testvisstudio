@@ -15,3 +15,4 @@ do other stuff
 =================================
 # put a hashtag
 
+now make changes on github and bring them back to my computer, trying git pull
